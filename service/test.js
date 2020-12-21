@@ -1,0 +1,1 @@
+Real Time|Offline|IrDA|RF|RFW
